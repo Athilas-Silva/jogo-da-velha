@@ -18,3 +18,7 @@ Jogo da velha desenvolvido em React, utilizando os Hooks [UseState](https://pt-b
 
 ##
 
+## Ao baixar o repositório:
+
+- Abra o projeto no Visual Studio Code e digite o seguinte comando no terminal `` yarn ``, para instalar as depêndencias do projeto
+- Depois de instalar, digite `` yarn start `` para iniciar o projeto.
